@@ -28,3 +28,6 @@ Dependencies :
 2. pygame 1.9.4
 3. numpy 1.15.1
 4. sklearn 0.19.2
+
+
+Genetic algorithm code is present in code/NeuralModel.py
